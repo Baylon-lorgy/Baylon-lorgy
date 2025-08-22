@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi there 👋 I'm Lorgy  
 
-<!--
-**Baylon-lorgy/Baylon-lorgy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile views](https://komarev.com/ghpvc/?username=Baylon-lorgy&label=Profile%20views&color=0e75b6&style=flat)
 
-Here are some ideas to get you started:
+[![Developer Badge](https://img.shields.io/badge/Developer-👨‍💻-blue?style=for-the-badge)](#) 
+[![Student Badge](https://img.shields.io/badge/Student-📚-green?style=for-the-badge)](#)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 I'm an **IT Student** passionate about technology, coding, and continuous learning.  
+💻 I enjoy building projects, exploring new tools, and sharing knowledge with others.  
+🌱 Currently learning **Web Development, Databases, and Cloud Computing**.  
+⚡ Fun fact: I love solving problems and automating boring stuff with code.  
+
+---
+
+## 🚀 Skills & Tools  
+- **Languages:** HTML, CSS, JavaScript, PHP, Python, Java  
+- **Frameworks & Libraries:** Bootstrap, Laravel, React (learning)  
+- **Databases:** MySQL, PostgreSQL  
+- **Tools:** Git, GitHub, VS Code, Figma  
+- **Other Interests:** Networking, Cybersecurity, IoT  
+
+---
+
+## 📊 GitHub Stats  
+![Lorgy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Baylon-lorgy&show_icons=true&theme=tokyonight)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baylon-lorgy&layout=compact&theme=tokyonight)  
+
+---
+
+## 🐍 Contribution Snake  
+![snake gif](https://github.com/Baylon-lorgy/Baylon-lorgy/blob/output/snake.svg)  
+
+---
+
+## 📫 Connect with Me  
+- 💼 [LinkedIn](https://www.linkedin.com/) *(add your link)*  
+- 📷 [Instagram](https://www.instagram.com/) *(add your link)*  
+- ✉️ Email: yourname@email.com  
+
+---
+
+✨ *“Code is like humor. When you have to explain it, it’s bad.”*
