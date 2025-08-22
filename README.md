@@ -33,10 +33,11 @@
 ---
 
 ## 📫 Connect with Me  
-- 💼 [LinkedIn](https://www.linkedin.com/) *(add your link)*  
-- 📷 [Instagram](https://www.instagram.com/) *(add your link)*  
-- ✉️ Email: yourname@email.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/lorgy-ll-baylon-954010380)  
+- 📷 [Instagram](https://www.instagram.com/vzklinnolyab?igsh=cHpoNW5jeHY1bWRm)  
+- ✉️ [Email](mailto:lorgybaylon80@gmail.com)  
 
 ---
 
 ✨ *“Code is like humor. When you have to explain it, it’s bad.”*
+
