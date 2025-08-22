@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Lorgy  
+# Hi there 👋 I'm Lorgy The Second  
 
 ![Profile views](https://komarev.com/ghpvc/?username=Baylon-lorgy&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -21,15 +21,14 @@
 ---
 
 ## 📊 GitHub Stats  
-![Lorgy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Baylon-lorgy&show_icons=true&theme=tokyonight)  
+![Lorgy The Second's GitHub stats](https://github-readme-stats.vercel.app/api?username=Baylon-lorgy&show_icons=true&theme=tokyonight)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baylon-lorgy&layout=compact&theme=tokyonight)  
 
 ---
 
-## 🐍 Contribution Snake  
-![GitHub Snake Light](https://github.com/Baylon-lorgy/Baylon-lorgy/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)  
-![GitHub Snake Dark](https://github.com/Baylon-lorgy/Baylon-lorgy/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)  
+## 📈 Contribution Graph  
+[![Lorgy The Second's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Baylon-lorgy&bg_color=0d1117&color=00ffb3&line=00ffb3&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)  
 
 ---
 
