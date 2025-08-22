@@ -8,16 +8,15 @@
 🎓 I'm an **IT Student** passionate about technology, coding, and continuous learning.  
 💻 I enjoy building projects, exploring new tools, and sharing knowledge with others.  
 🌱 Currently learning **Web Development, Databases, and Cloud Computing**.  
-⚡ Fun fact: I love solving problems and automating boring stuff with code.  
 
 ---
 
 ## 🚀 Skills & Tools  
-- **Languages:** HTML, CSS, JavaScript, PHP, Python, Java  
-- **Frameworks & Libraries:** Bootstrap, Laravel, React (learning)  
+- **Languages:** HTML, CSS, JavaScript, React  
+- **Frameworks & Libraries:** Bootstrap, Laravel  
 - **Databases:** MySQL, PostgreSQL  
 - **Tools:** Git, GitHub, VS Code, Figma  
-- **Other Interests:** Networking, Cybersecurity, IoT  
+- **Other Interests:** Cybersecurity, IoT  
 
 ---
 
@@ -29,7 +28,8 @@
 ---
 
 ## 🐍 Contribution Snake  
-![snake gif](https://github.com/Baylon-lorgy/Baylon-lorgy/blob/output/snake.svg)  
+![GitHub Snake Light](https://github.com/Baylon-lorgy/Baylon-lorgy/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)  
+![GitHub Snake Dark](https://github.com/Baylon-lorgy/Baylon-lorgy/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)  
 
 ---
 
